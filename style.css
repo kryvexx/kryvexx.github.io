@@ -2,10 +2,10 @@
 
 :root {
     --bg: #0d0d0d;
-    --fg: #e8e4dc;
-    --dim: #4a4845;
-    --accent: #7fff6e;
-    --line: rgba(232,228,220,0.08);
+    --fg: #e4d6ba;
+    --dim: #474032;
+    --accent: #ffb46e;
+    --line: rgba(232, 228, 220, 0.027);
 }
 
 html { scroll-behavior: smooth; }

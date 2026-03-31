@@ -8,3 +8,8 @@ const fades = document.querySelectorAll('.fade');
     });
   }, { threshold: 0.05 });
   fades.forEach(el => obs.observe(el));
+
+
+// magari un altra volta
+// const welcome = ["Welcome", "What's up?", "How's it going?", "How are you?"];
+// document.getElementById("welcome").innerText = welcome[Math.floor(Math.random() * welcome.length)];
